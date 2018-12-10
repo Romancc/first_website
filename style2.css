@@ -1,0 +1,14 @@
+body{
+  font-family: "Dosis", Fallback, Light;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+    font-family: "Dosis";
+    src: url("/fonts/ProductSans-Regular");
+}
+
+.navbar1{
+  text-align: center;
+  margin-left: 100px;
+}

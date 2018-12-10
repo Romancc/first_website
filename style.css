@@ -1,0 +1,65 @@
+body{
+  font-family: "Dosis", Fallback, Light;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+    font-family: "Dosis";
+    src: url("/fonts/ProductSans-Regular");
+}
+.h1{
+}
+
+.container1{
+  text-align: center;
+  margin-top: 220px;
+}
+
+
+.container{
+  text-align: center;
+  margin-top: 20px;
+}
+.input{
+  border: 1px solid #3498db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  outline: none;
+  text-align: center;
+}
+
+.btn1{
+  border: 1px solid #2ecc71;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 10px;
+  color: #2ecc71;
+  transition: 0.5s;
+}
+.btn2{
+  border: 1px solid #e74c3c;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 10px;
+  color: #e74c3c;
+  transition: 0.5s;
+}
+
+.btn1:hover{
+  border: 1px solid #2ecc71;
+  background: #2ecc71;
+  color: #fff;
+}
+.btn2:hover{
+  border: 1px solid #e74c3c;
+  background: #e74c3c;
+  color: #fff;
+}
