@@ -1,2 +1,2 @@
 # Meine Website
-Ich bneutze Github um eine Website zu hosten!
+Ich benutze Github um eine Website zu hosten!
